@@ -1,0 +1,1 @@
+This is the desktop version of the Arqa app built with Electron, React, and TypeScript.
